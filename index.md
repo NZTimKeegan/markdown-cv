@@ -16,16 +16,12 @@ A curious and driven IT professional with 3 years experience as a Software Devel
 ### Core Skills
 
 - Critical thinking, abstract reasoning and problem solving
-- Communication and collaboration
-- Scrum and Agile methodologies
-
-
-### Technical Skills
-
 - Object Oriented and Functional programming styles
 - Java + Spring Boot, Typescript + Angular, Swift + Vapor, SQL, Groovy, Python
 - Docker, Git, Jenkins, Kubernetes
 - Unit Testing, Integration Testing
+- Scrum and Agile methodologies
+- Communication and collaboration
 
 
 ### Education & Training
@@ -57,11 +53,12 @@ __Software Developer__
 
 - Fullstack software development
 - Application design and code review
+- Application support 
 - Requirements gathering and refinement
 
 ### Key Achievements
 
-Was a key member of a cross-functional team tasked to build a labour management platform. Also involved in initial requirements gathering and their continued refinement. Migrated services from Docker Compose to Docker Swarm to on-premise Kubernetes to hosted Kubernetes
+Was a key member of a cross-functional team tasked to build a labour management web application. Contributed to developing the front-end and back-end of the application as well as initial requirements gathering and their continued refinement
 
 
 <br>
@@ -80,7 +77,7 @@ __Application Analyst__
 
 ### Key Achievements 
 
-Involed in implementing Salesforce Service Cloud and Salesforce Marketing Cloud environments. I participated in defining the business requirements, investigation and reverse engineering the existing CRM, and performed the production deployment of both Clouds including the data migration into the new platforms 
+Involed in implementation of Salesforce Service Cloud and Salesforce Marketing Cloud. I participated in defining the business requirements, investigation and reverse engineering the existing CRM, and performed the production deployment of both Clouds including the data migration into the new platforms 
 
 
 <br>
@@ -97,7 +94,7 @@ __Customer Service Representative__
 
 ### Key Achievements 
 
-Seconded to cover the Customer Insights Reporting Manager and Team Leader responsibilities. Wrote documentation and provided training to support The Warehouse's in-house VEON television brand. Supervised the Customer Engagement team during weekends to met SLAs and handle escalations
+Seconded to cover the Customer Interaction Reporting Manager and Team Leader responsibilities. Wrote documentation and provided training to support The Warehouse's in-house VEON television brand. Supervised the Customer Engagement team during weekends to met SLAs and handle escalations
 
 
 <br>
@@ -109,7 +106,7 @@ __Customer Service Representative__
 ### Responsibilities
 
 - Provided technical support for Canon business and consumer products including multifunction printers, camera systems, scanners and home printers
-- Handled presales enquiries for Canon business products
+- Consumer and Business-to-Business presales
 - Supported other members of the team with training, and by handling difficult technical support issues
 
 
