@@ -1,91 +1,128 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tim Keegans's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tim Keegan
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto: tjnkeegan@icloud.com">tjnkeegan@icloud.com</a>
+| <a href="tel:+64221303927">022 1303 927</a>
 </div>
 
+## Personal Statement 
 
-## Currently
+A curious and driven IT professional with 3 years experience as a Software Developer and 8 years experience providing technical and customer support. I have a keen focus on customer outcomes, am an effective communicator and collaborator, and am passionate about creating high quality, reliable software products. Seeking an opportunity to work in a dynamic, cross-functional environment where I can apply and continue to grow my skills
 
-Standing on the shoulders of giants
+### Core Skills
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Critical thinking, abstract reasoning and problem solving
+- Communication and collaboration
+- Scrum and Agile methodologies
 
 
-## Education
+### Technical Skills
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Object Oriented and Functional programming styles
+- Java + Spring Boot, Typescript + Angular, Swift + Vapor, SQL, Groovy, Python
+- Docker, Git, Jenkins, Kubernetes
+- Unit Testing, Integration Testing
 
 
+### Education & Training
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2017`
+__SAFe&reg; 4 Certified Program Consultant__
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+<br>
+`2015`
+__Salesforce Administrator ADM-201__
 
 
-## Occupation
+<br>
+`2015`
+__Bachelor of Arts, University of Auckland__
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Major: Logic & Computation, Minor: Psychology
 
 
+## Employment History 
+
+`2017 - Now`
+__Software Developer__
+
+*The Warehouse Group*
+
+### Responsibilities
+
+- Fullstack software development
+- Application design and code review
+- Requirements gathering and refinement
+
+### Key Achievements
+
+Was a key member of a cross-functional team tasked to build a labour management platform. Also involved in initial requirements gathering and their continued refinement. Migrated services from Docker Compose to Docker Swarm to on-premise Kubernetes to hosted Kubernetes
+
+
+<br>
+`2015 - 2017`
+__Application Analyst__
+
+*The Warehouse Group*
+
+### Responsibilities
+
+- System administration and support for over 40 applications 
+- Primarily responsible for Salesforce Service Cloud, Salesforce Marketing Cloud, and Cumulus Digital Asset Management software
+- Participated in solution design, analysis and process mapping workshops
+- Conducted training, developed system and process documentation
+- Worked with third parties to extend and enhance applications
+
+### Key Achievements 
+
+Involed in implementing Salesforce Service Cloud and Salesforce Marketing Cloud environments. I participated in defining the business requirements, investigation and reverse engineering the existing CRM, and performed the production deployment of both Clouds including the data migration into the new platforms 
+
+
+<br>
+`2013 - 2015`
+__Customer Service Representative__
+
+*The Warehouse Group*
+
+### Responsibilities
+
+- Omni-channel customer support for The Warehouse and Warehouse Stationery
+- Coached and supported new team members
+- Simplified spreadsheet based systems for reporting and backoffice activities
+
+### Key Achievements 
+
+Seconded to cover the Customer Insights Reporting Manager and Team Leader responsibilities. Wrote documentation and provided training to support The Warehouse's in-house VEON television brand. Supervised the Customer Engagement team during weekends to met SLAs and handle escalations
+
+
+<br>
+`2009 - 2013`
+__Customer Service Representative__
+
+*Datacom Services*
+
+### Responsibilities
+
+- Provided technical support for Canon business and consumer products including multifunction printers, camera systems, scanners and home printers
+- Handled presales enquiries for Canon business products
+- Supported other members of the team with training, and by handling difficult technical support issues
+
+
+### Key Achievements 
+
+Established myself as a key technical expert and became the go-to training buddy for new team members. Leveraged my technical skills and abilities as a clear communicator to author templates that allowed faster and more consistent resolution of technical support enquiries
+
+
+## References
+
+Available on request
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Last updated: 3rd July 2020 -->
 
