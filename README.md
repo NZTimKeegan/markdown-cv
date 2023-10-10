@@ -45,11 +45,11 @@ Any change you want to make to your CV from then on would have to be done on the
 1. Enter the following in your command line:
 
 ```shell
-sudo docker run --rm \
-     --volume $(pwd):/srv/jekyll \
-     --publish [::1]:4000:4000 \
-     jekyll/jekyll \
-     jekyll serve
+docker run --rm \
+--publish 4000:4000 \
+--volume $(pwd):/srv/jekyll \
+jekyll/jekyll:3 \
+jekyll serve
 ```
 2. Go to http://localhost:4000 to view the served content
 3. Jekyll will detect changes to the markdown while you edit, you will need to
