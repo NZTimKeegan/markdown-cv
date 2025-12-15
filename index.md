@@ -11,27 +11,28 @@ title: Tim Keegans's CV
 
 ## Personal Statement
 
-A curious and driven developer with experience building software and
-helping teams to improve their software delivery capabilities. I have a keen
-focus on customer outcomes, am an effective communicator and collaborator, and
-am passionate about creating high quality, reliable software products. I have
-experience influencing teams and stakeholders to drive improvements in the way
-software is delivered.
+A curious and driven developer with experience building software and helping
+teams to improve their capabilities. I have worked across AI/ML + Data Science, Platform
+Engineering, DevOps, and Web Development.
+
+I have a keen focus on customer outcomes, am an effective communicator and
+collaborator, and am passionate about creating high quality, reliable software
+products. I have experience influencing teams and stakeholders to drive
+improvements in the way software is delivered.
 
 I am highly motivated in environments where I can be connected to the purpose
-of my work, and really enjoy a challenge. I am seeking an opportunity to work in
-a dynamic, cross-functional environment where I can continue to grow my skills.
+of my work, and really enjoy a challenge. 
 
 ### Core Skills
 
-- Improving technical practices by introducing patterns and promoting adoption
-- Software Development
-- Workload Orchestration with Docker, Helm, Kubernetes
-- Creating CI/CD pipelines
-- Infrastructure as Code with Azure, AWS and Terraform
+- Improving technical practices
+- Workload orchestration
+- Creating build and deployment pipelines to facilitate fast feedback and
+  delivery
 - Logging and Monitoring with Elasticsearch, SignalFX, and New Relic
-- Scrum, Agile, OKR writing
-- Critical thinking, abstract reasoning and problem solving
+- Infrastructure as Code
+- Agile, Scrum, OKR writing
+- Critical thinking, abstract reasoning, and problem solving
 
 ### Education
 
@@ -40,7 +41,37 @@ __Bachelor of Arts, University of Auckland__ Major: Logic & Computation, Minor: 
 
 ## Employment History
 
-`2021 - now`
+`2023 - now`
+__MLOps Engineer__ *The Warehouse Group*
+
+### Responsibilities
+
+- Adoption of Azure Machine Learning (Azure ML) for Data Science solutions
+- Configuring the Azure ML platform using Infrastructure as Code tools
+- Creating reusable deployment patterns using the Azure ML SDK
+- Partnering with Data Scientists to support uptake of DevSecOps & MLOps skills
+- Driving the design and evolution of the Data Science tech stack
+
+### Achievements
+
+Successful migration of priority data science models to the new Azure ML platform.
+Provided technical leadership to unblock adopting the technology and skills required to
+move. This involved translation to Python, standing up the production environment, and
+building the initial pipelines to support CI/CD.
+
+The lessons from the initial migration were translated into reusable, software-defined
+templates that codify best practices and standards for building and deploying Data
+Science solutions.
+
+Simplified local development environment setup to remove friction and help people get
+started faster. Drove adoption of automated testing and Continuous Integration through
+pair programming, demos, code review, and using automation to ensure quality standards
+are met.
+
+<br/>
+<br/>
+
+`2021 - 2023`
 __DevSecOps Engineer__ *The Warehouse Group*
 
 ### Responsibilities
@@ -50,8 +81,6 @@ __DevSecOps Engineer__ *The Warehouse Group*
 - Stakeholder collaboration and setting quarterly OKRs
 - Platform engineering, system design, fullstack development, and code review
 - Writing developer tools and supporting documentation
-- Creating CI/CD pipelines
-- Supporting members of my team with their DevSecOps craft
 - Contributing to organisational standards and the DevSecOps strategy
 
 ### Achievements
@@ -80,16 +109,16 @@ roadmaps to aid in short and medium term planning, introducing tools and
 practices to shift left on security, improve test automation, and introducing
 monitoring capabilities.
 
-<br>
+<br/>
+
 `2017 - 2021`
 __Software Developer__ *The Warehouse Group*
 
 ### Responsibilities
 
-- Fullstack software development with Java, Typescript, PostgreSQL
+- Fullstack software development with Java, Typescript, PostgreSQL, and Python
 - Deployment with Docker, Kubernetes, and Jenkins
 - Application design and code review
-- Application support
 - Requirements gathering and refinement
 
 ### Achievements
@@ -101,18 +130,23 @@ refinement. We delivered a solution that powered a shift to demand based
 labour planning, which represented significant recurring savings to the
 organisation and better service for customers.
 
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 `2015 - 2017`
 __Application Analyst__ *The Warehouse Group*
 
 ### Responsibilities
 
-- System administration and support for over 40 applications
 - Primarily responsible for Salesforce Service Cloud, Salesforce Marketing
-  Cloud, and Cumulus DAM
+  Cloud, and Cumulus Dgital Asset Management
 - Participated in solution design, analysis and process mapping workshops
 - Conducted training, developed system and process documentation
-- Worked with third parties to extend and enhance applications
 
 ### Achievements
 
